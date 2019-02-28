@@ -5,6 +5,9 @@ alexa skill test result:
  # under test folder i have kept index.test.yml(test suit), testing.json file
 
  Please find the result after (bst test),
+ 
+ 
+ 
  svtusers-MacBook-Air:hello-world svtuser$ bst test
 
 BST: v2.1.18  Node: v11.10.0
