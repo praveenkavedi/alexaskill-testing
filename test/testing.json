@@ -1,0 +1,8 @@
+{
+    "handler": "../lambda/custom/index.js",
+    "locale": "de-DE",
+    "trace": true,
+    "jest": {
+        "silent": false
+    }
+}
